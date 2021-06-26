@@ -1,3 +1,3 @@
-const addition = (a, b) =>  a + b;
+const addition = (a, b) => a + b;
 
-// module.exports = addition;
+export default addition;

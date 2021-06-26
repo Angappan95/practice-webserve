@@ -1,3 +1,4 @@
-import addition from './common'
+import addition from "./common";
 
-console.log(addition(2+3))
+let sum = addition(2, 3);
+console.log(sum);
